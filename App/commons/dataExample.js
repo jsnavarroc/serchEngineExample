@@ -4,12 +4,14 @@ const peopleOne = [
     lastName: 'Navarro',
     picture: 'https://i.ibb.co/QM5Mc3L/johan.jpg',
     idMunicipality: '336',
+    year: 24,
   },
   {
     name: 'Marco',
     lastName: 'Navarro',
     picture: 'https://i.ibb.co/QM5Mc3L/johan.jpg',
     idMunicipality: '336',
+    year: 22,
   },
 ];
 const peopleTwo = [
@@ -18,6 +20,7 @@ const peopleTwo = [
     lastName: 'Ocampo',
     picture: 'https://i.ibb.co/QM5Mc3L/johan.jpg',
     idMunicipality: '336',
+    year: 24,
   },
 ];
 const peopleThree = [
@@ -26,12 +29,14 @@ const peopleThree = [
     lastName: 'Navarro',
     picture: 'https://i.ibb.co/QM5Mc3L/johan.jpg',
     idMunicipality: '336',
+    year: 15,
   },
   {
     name: 'Terminatar',
     lastName: 'Navarro',
     picture: 'https://i.ibb.co/QM5Mc3L/johan.jpg',
     idMunicipality: '336',
+    year: 19,
   },
 ];
 const peopleFour = [
@@ -39,6 +44,7 @@ const peopleFour = [
     name: 'Gocku',
     lastName: 'Navarro',
     picture: 'https://i.ibb.co/QM5Mc3L/johan.jpg',
+    year: 29,
   },
 ];
 export const peopleFive = [
@@ -47,6 +53,7 @@ export const peopleFive = [
     lastName: 'Navarro',
     picture: 'https://i.ibb.co/QM5Mc3L/johan.jpg',
     idMunicipality: '336',
+    year: 18,
   },
 ];
 const peopleSix = [
@@ -55,6 +62,7 @@ const peopleSix = [
     lastName: 'Cano',
     picture: 'https://i.ibb.co/QM5Mc3L/johan.jpg',
     idMunicipality: '336',
+    year: 15,
   },
 ];
 

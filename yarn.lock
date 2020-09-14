@@ -5528,16 +5528,16 @@ react-is@^16.12.0, react-is@^16.8.1, react-is@^16.8.4, react-is@^16.8.6:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
   integrity sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==
 
-react-native-search-engine@^1.1.18:
-  version "1.1.18"
-  resolved "https://registry.yarnpkg.com/react-native-search-engine/-/react-native-search-engine-1.1.18.tgz#04b55e059309db651a253d0232bdc8971996258e"
-  integrity sha512-8r+xN97tsM8XG5fcv4wT5NM8juBEmqH//Y4f/hq6oQf3PXEStm3b1Ih+Flkfq7CIMui/CaYQzhEGEKixFNd1zg==
+react-native-search-engine@^1.1.20:
+  version "1.1.20"
+  resolved "https://registry.yarnpkg.com/react-native-search-engine/-/react-native-search-engine-1.1.20.tgz#a80481b3ed6cd213e9b258ad5e9f52641126feee"
+  integrity sha512-+PaCXrQw5qTbirjXTr8Xi1YfXl1afweNGgGPNvw6TZxe8XBG9lHsS6/19B/SZ1VW8wVqiZWNAvIyAs1VPXDWLQ==
   dependencies:
     lodash "^4.17.19"
     prop-types "^15.7.2"
     react-native-vector-icons "^7.0.0"
 
-react-native-vector-icons@^7.0.0:
+react-native-vector-icons@^7.0.0, react-native-vector-icons@^7.1.0:
   version "7.1.0"
   resolved "https://registry.yarnpkg.com/react-native-vector-icons/-/react-native-vector-icons-7.1.0.tgz#145487d617b2a81d395d2cf64e6e065fcab3a454"
   integrity sha512-V2a1zJ4i+kS8O4j183gIwX14St9AxxXabxwYpFBgRhvr2NDXyFcjHDEAgrOYYlt2W57e20aN1tBDU/I+wn9WtQ==

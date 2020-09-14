@@ -6,7 +6,7 @@ import styles from '../Styles';
 
 const CardImageExample = ({ value, keyCard }) => {
   const name = `${value.name} ${value.lastName}`;
-  // const idMunicipality = value.idMunicipality;
+  const year = value.year;
   return (
     <>
       <View key={keyCard} style={styles.cardInfoUser}>
@@ -22,6 +22,7 @@ const CardImageExample = ({ value, keyCard }) => {
           <Text style={styles.text}>
             {name.length > 30 ? `${name.slice(0, 30)}...` : name}
           </Text>
+          <Text style={styles.text}>{year}</Text>
         </View>
       </View>
     </>
