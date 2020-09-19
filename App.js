@@ -9,7 +9,8 @@
 import React from 'react';
 import { SafeAreaView, StatusBar } from 'react-native';
 // import SerchEngineExample from './App/InputCutom/SerchEngineExample';
-import SerchEngineExample from './App/InputSelecteStyle/SerchEngineExample';
+//import SerchEngineExample from './App/InputSelecteStyle/SerchEngineExample';
+import SerchEngineExample from './App/InputSelectSearch/SerchEngineExample';
 
 const App = () => {
   return (

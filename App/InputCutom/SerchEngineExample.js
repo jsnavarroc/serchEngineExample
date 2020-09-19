@@ -37,6 +37,7 @@ const SerchEngineExample = () => {
         }}
         //Option 1
         showAllMode={true}
+        showNoResults={true}
         //Option 2
         // showAllMode={false}
       />
