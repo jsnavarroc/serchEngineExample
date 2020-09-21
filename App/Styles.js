@@ -38,6 +38,12 @@ export default StyleSheet.create({
     borderBottomRightRadius: 0,
     backgroundColor: '#afaa',
   },
+  containerTextError: {
+    backgroundColor: '#950005',
+  },
+  textInfoStyleError: {
+    color: '#fff',
+  },
   containerInputView: {
     marginVertical: 8,
   },

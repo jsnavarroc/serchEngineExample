@@ -23,9 +23,9 @@ const SerchEngineExample = () => {
           }}
           buttonEnabled={true}
           //Option 1
-          // showAllMode={true}
+          showAllMode={true}
           //Option 2
-          showAllMode={false}
+          // showAllMode={false}
         />
       </View>
     </View>

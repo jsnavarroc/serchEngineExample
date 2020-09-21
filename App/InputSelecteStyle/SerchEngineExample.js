@@ -24,6 +24,8 @@ const SerchEngineExample = () => {
           containerInputStyle={styles.input}
           containerTextInfoStyle={styles.options}
           containerButtonStyle={styles.leftIcon}
+          containerTextError={styles.containerTextError}
+          textInfoStyleError={styles.textInfoStyleError}
           textInputStyle={styles.text}
           leftIcon={() => <Icon name="search" color="#000" size={14} />}
           //Option 1
