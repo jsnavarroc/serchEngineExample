@@ -21,6 +21,9 @@ const SerchEngineExample = () => {
           onChangeSearch={object => {
             setDataFilter(object);
           }}
+          // value={'Johan'}
+          // textEmpty={'Error'}
+          // error={true}
           buttonEnabled={true}
           //Option 1
           showAllMode={true}
